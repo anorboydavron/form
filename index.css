@@ -1,0 +1,83 @@
+
+body {
+  background-image: url("./img/i.webp"); 
+  background-repeat:no-repeat ;
+  background-size: cover; 
+}
+h1{
+text-align: center;}
+
+.container {
+  width: 50%; 
+  margin: auto; 
+  padding: 20px;
+  border: 2px solid black;
+  background-image: url(./img/);
+  border-radius: 10px;
+}
+
+
+input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+
+
+label {
+  font-weight: bold;
+}
+
+
+select {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+
+button:hover {
+   background-color: green; 
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.5s;
+   align-items: center;
+}
+
+
+input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+
+
+input {
+  border: 2px solid rgb(22, 24, 22);  
+  border-radius: 10px;
+  box-shadow: inset 0 0 5px gray;
+  outline: none;
+}
+
+input:focus {
+  border-color: blue; 
+}
+
+
+input {
+  font-family: Arial, sans-serif;
+  font-size: 16px; 
+}
+#container {
+    background: linear-gradient(to right, pink, purple);
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: -10px -10px 10px gray, inset -5px -5px 5px gray;
+  }
+  
+ 
+  #container p {
+     transform: rotate(-10deg);
+  }
+
+  
